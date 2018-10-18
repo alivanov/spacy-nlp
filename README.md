@@ -6,7 +6,7 @@ Expose Spacy nlp text parsing to Nodejs (and other languages) via socketIO
 
 ```shell
 # install spacy in python3
-python3 -m pip install -U socketIO-client
+python3 -m pip install -U socketIO-client-nexus
 python3 -m pip install -U spacy
 python3 -m spacy download en_core_web_md
 
